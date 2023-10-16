@@ -12,4 +12,12 @@ This is a simple Python-based voice-activated chatbot with a graphical user inte
 - GUI built with tkinter.
 - Handling of user input until an exit command is detected.
 
-# To check it out download the files and run myguy4.exe file
+# To check it out
+
+- Get an Api key from OpenAi api
+- Add the api key inside the Python file
+- Run the python file
+
+
+![image](https://github.com/Shivastoic/Desktop-Voice-ChatBot-app/assets/107467698/4f82d6bb-3555-49e9-a11b-d8655b782309)
+
